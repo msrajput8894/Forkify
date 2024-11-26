@@ -16,10 +16,12 @@
     "url": "^0.11.4"
   },
   "dependencies": {
-    "@parcel/watcher-win32-x64": "^2.5.0",
     "core-js": "^3.39.0",
     "fractional": "^1.0.0",
     "regenerator-runtime": "^0.14.1",
     "sass": "^1.81.0"
+  },
+  "optionalDependencies": {
+    "@parcel/watcher-linux-x64-glibc": "^1.0.0"
   }
 }
