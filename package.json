@@ -5,8 +5,7 @@
   "default": "index.html",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html --dist-dir ./dist",
-    "postinstall": "npm rebuild @parcel/watcher"
+    "build": "parcel build index.html --dist-dir ./dist"
   },
   "author": "Mahendra Rajput",
   "license": "ISC",
@@ -17,6 +16,7 @@
     "url": "^0.11.4"
   },
   "dependencies": {
+    "@parcel/watcher": "^2.5.0",
     "core-js": "^3.39.0",
     "fractional": "^1.0.0",
     "regenerator-runtime": "^0.14.1",
