@@ -1,43 +1,70 @@
-Forkify - Search Over 100,000 Recipes...
-Description
+# Forkify - Search Over 100,000 Recipes...
+
+![Forkify Screenshot](images/forkify_home.png)
+
+## Description
+
 Forkify is a recipe app where you can search over 100,000 recipes from around the world. You can also add your own recipes and bookmark your favorite recipes for easy access.
 
-Features
-Searching: Quickly find recipes from a vast database.
+## Table of Contents
 
-Bookmark: Save your favorite recipes for later.
+- [Description](#description)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [Contact Information](#contact-information)
+- [License](#license)
 
-Add Your Own Recipe: Contribute your own recipes to the app.
+## Features
 
-Installation Instructions
-Clone the repository to your local machine:
+- **Searching**: Quickly find recipes from a vast database.
+- **Bookmark**: Save your favorite recipes for later.
+- **Add Your Own Recipe**: Contribute your own recipes to the app.
 
-sh
-git clone https://github.com/yourusername/forkify.git
-Navigate to the project directory:
+## Screenshots
 
-sh
+![Home Page](images/forkify_home.png)
+_Home page displaying recipes_
+
+![Search Page](images/forkify_search.png)
+_Search page with recipe results_
+
+![Add Recipe Page](images/forkify_add.png)
+_Add recipe page_
+
+![Bookmark Page](images/forkify_bookmark.png)
+_Bookmark page showing saved recipes_
+
+## Installation
+
+## Direct link: https://forkify1-mahendra.netlify.app/
+
+1. Clone the repository:
+   git clone https://github.com/msrajput8894/forkify.git
+
+2. Navigate to the project directory:
 cd forkify
 Install the dependencies using npm:
-
-sh
 npm install
-Usage Instructions
-Start the application:
 
-sh
+4. Usage
+Start the application:
 npm start
-Open your web browser and navigate to http://localhost:3000.
+Open your web browser and navigate to http://localhost:1234.
 
 Use the app to search for recipes, add your own recipes, and bookmark your favorites.
 
-Contributing
-Fork this repository and contribute by making pull requests. All contributions are welcome!
+5. Technologies Used
+Frontend: HTML, CSS, JavaScript
+
+Version Control: Git and GitHub
+
+Deployment: Parcel
+
+Contact Information
+Email: msrajput8894@gmail.com
 
 License
 This project is not licensed.
-
-Contact Information
-If you have any questions or need support, please contact:
-
-Email: msrajput8894@gmail.com
