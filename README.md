@@ -49,22 +49,22 @@ cd forkify
 Install the dependencies using npm:
 npm install
 
-4. Usage
-Start the application:
-npm start
-Open your web browser and navigate to http://localhost:1234.
+3. Usage
+- Start the application:
+- npm start
+- Open your web browser and navigate to http://localhost:1234.
+- Use the app to search for recipes, add your own recipes, and bookmark your favorites.
 
-Use the app to search for recipes, add your own recipes, and bookmark your favorites.
+4. Technologies Used
+- Frontend: HTML, CSS, JavaScript
 
-5. Technologies Used
-Frontend: HTML, CSS, JavaScript
+- Version Control: Git and GitHub
 
-Version Control: Git and GitHub
-
-Deployment: Parcel
+- Deployment: Parcel
 
 Contact Information
-Email: msrajput8894@gmail.com
+- Email: msrajput8894@gmail.com
+- 8208997720
 
 License
 This project is not licensed.
